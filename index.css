@@ -1,0 +1,36 @@
+.box {
+	height: 20vh;
+	width: 20vw;
+	border: 1px solid black;
+	background-color: lime;
+
+
+}
+
+.App {
+	display: flex;
+	width: 88vw;
+	flex-wrap: wrap;
+	background-color: black;
+	justify-content: center;
+
+		
+	
+
+
+}
+
+
+body {
+	/* background-color: black; */
+	display: flex;
+	justify-content: center;
+	padding: 0;
+	border: 0;
+	background-color: black;
+
+
+}
+
+
+
